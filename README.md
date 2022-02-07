@@ -1,4 +1,4 @@
-# Multivariable Regression Valuation Model
+# Predicting property prices with multivariable linear regression
 
 This Jupyter notebook aims to explore and analyse housing data from Boston Massachusetts in the 1970's, split the data into training and test data, run a multivariable regression,
 evaluate the model's coefficients and performance, transform the data to improve model performance and finally using the model to make predictions on house prices based on 
